@@ -1,6 +1,6 @@
 # CSA Coursework: Game of Life
 
-This repository contains an advanced implementation of John Conway’s Game of Life in Go, completed as part of the Computer Systems A summative coursework at the University of Bristol. The project focuses on applying parallel and distributed computing concepts, exploring concurrency, scalability, and network communication.
+This repository contains implementation of John Conway’s Game of Life in Go, completed as part of the Computer Systems A summative coursework at the University of Bristol. The project focuses on applying parallel and distributed computing concepts, exploring concurrency, scalability, and network communication.
 
 The implementation consists of two main stages:  
 1. **Parallel Implementation** – Multi-threaded Game of Life using goroutines and channels.  
